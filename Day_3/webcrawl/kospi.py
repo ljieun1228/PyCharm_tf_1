@@ -5,11 +5,13 @@ url = "https://finance.naver.com/sise/"
 page = urlopen(url)
 soup = BeautifulSoup(page, 'html.parser')
 
-all_divs = soup.find_all('span',attrs={'id':'KOSPI_now'})
-all_divs += soup.find_all('h3',attrs={'class':'blind'})
-all_divs += soup.find_all('span',attrs={'id':'time3'})
+kospi_now = soup.select('#KOSPI_now')
 
-res = [span.string for span in all_divs]
+print("시간의 코스피 지수는")
+for i in kospi_now:
+    print(i.text)
 
-for i in res:
-    print(i)
+time1 = soup.select('#time1')
+
+for i in time1:
+    print(i.text.lstrip())

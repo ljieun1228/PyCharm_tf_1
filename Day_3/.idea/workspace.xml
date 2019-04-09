@@ -9,61 +9,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.48044217">
-      <split-first>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/folium_test/US_unemployment.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="380">
-                  <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-                  <folding>
-                    <element signature="e#0#19#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$USER_HOME$/Anaconda3/envs/tensorflow/lib/site-packages/folium/folium.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="245">
-                  <caret line="425" selection-start-line="425" selection-end-line="425" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/text_mining/samsung_report.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="83">
-                  <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-                  <folding>
-                    <element signature="e#0#26#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/text_mining/samsung_report.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="83">
-                  <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-                  <folding>
-                    <element signature="e#0#26#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/seoul_cctv/pop.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -83,20 +39,21 @@
       <list>
         <option value="$PROJECT_DIR$/webcrawl.py" />
         <option value="$PROJECT_DIR$/webcrawl/naver_stock.py" />
-        <option value="$PROJECT_DIR$/webcrawl/kospi.py" />
         <option value="$PROJECT_DIR$/webcrawl/movie_rank.py" />
         <option value="$PROJECT_DIR$/webcrawl/naver_autologin.py" />
         <option value="$PROJECT_DIR$/data/stopwords.txt" />
         <option value="$PROJECT_DIR$/text_mining/samsung_report.py" />
         <option value="$PROJECT_DIR$/folium_test/US_unemployment.py" />
+        <option value="$PROJECT_DIR$/seoul_cctv/pop.py" />
+        <option value="$PROJECT_DIR$/webcrawl/kospi.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="189" />
-    <option name="y" value="-19" />
-    <option name="width" value="919" />
-    <option name="height" value="1602" />
+    <option name="x" value="22" />
+    <option name="y" value="-8" />
+    <option name="width" value="1400" />
+    <option name="height" value="820" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -113,22 +70,7 @@
             <path>
               <item name="Day_3" type="b2602c69:ProjectViewProjectNode" />
               <item name="Day_3" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day_3" type="462c0819:PsiDirectoryNode" />
-              <item name="folium_test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day_3" type="462c0819:PsiDirectoryNode" />
-              <item name="text_mining" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day_3" type="462c0819:PsiDirectoryNode" />
-              <item name="webcrawl" type="462c0819:PsiDirectoryNode" />
+              <item name="seoul_cctv" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -166,7 +108,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.US_unemployment">
+  <component name="RunManager" selected="Python.kospi">
+    <configuration name="result.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Day_3/data/result.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="US_unemployment" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Day_3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -211,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="movie_rank" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Day_3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,34 +164,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webcrawl" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/seoul_cctv" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webcrawl/movie_rank.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="naver_autologin" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Day_3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webcrawl" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webcrawl/naver_autologin.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seoul_cctv/pop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -279,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.kospi" />
+        <item itemvalue="Python.pop" />
+        <item itemvalue="JavaScript Debug.result.html" />
         <item itemvalue="Python.US_unemployment" />
         <item itemvalue="Python.samsung_report" />
-        <item itemvalue="Python.naver_autologin" />
-        <item itemvalue="Python.movie_rank" />
-        <item itemvalue="Python.kospi" />
       </list>
     </recent_temporary>
   </component>
@@ -297,19 +220,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554771407357</updated>
-      <workItem from="1554771408652" duration="17497000" />
+      <workItem from="1554771408652" duration="20269000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17497000" />
+    <option name="totallyTimeSpent" value="20269000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.18123393" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.15424165" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
@@ -328,7 +251,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
-      <window_info active="true" anchor="right" id="Run" order="5" visible="true" weight="0.06298201" />
+      <window_info anchor="right" id="Run" order="5" weight="0.35861182" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -338,25 +261,16 @@
     <SUITE FILE_PATH="coverage/Day_3$samsung_report.coverage" NAME="samsung_report Coverage Results" MODIFIED="1554791433025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/text_mining" />
     <SUITE FILE_PATH="coverage/Day_3$naver_stock.coverage" NAME="naver_stock Coverage Results" MODIFIED="1554773037354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webcrawl" />
     <SUITE FILE_PATH="coverage/Day_3$movie_rank.coverage" NAME="movie_rank Coverage Results" MODIFIED="1554778701982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webcrawl" />
-    <SUITE FILE_PATH="coverage/Day_3$kospi.coverage" NAME="kospi Coverage Results" MODIFIED="1554778639711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webcrawl" />
     <SUITE FILE_PATH="coverage/Day_3$naver_autologin.coverage" NAME="naver_autologin Coverage Results" MODIFIED="1554778719913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webcrawl" />
-    <SUITE FILE_PATH="coverage/Day_3$US_unemployment.coverage" NAME="US_unemployment Coverage Results" MODIFIED="1554793261381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/folium_test" />
+    <SUITE FILE_PATH="coverage/Day_3$US_unemployment.coverage" NAME="US_unemployment Coverage Results" MODIFIED="1554796399970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/folium_test" />
+    <SUITE FILE_PATH="coverage/Day_3$kospi.coverage" NAME="kospi Coverage Results" MODIFIED="1554798144412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webcrawl" />
+    <SUITE FILE_PATH="coverage/Day_3$pop.coverage" NAME="pop Coverage Results" MODIFIED="1554797468003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seoul_cctv" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/Anaconda3/envs/tensorflow/lib/site-packages/selenium/webdriver/chrome/webdriver.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="72" selection-start-line="72" selection-end-line="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webcrawl/naver_stock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" selection-start-line="13" selection-end-line="14" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -367,20 +281,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webcrawl/movie_rank.py">
+    <entry file="file://$PROJECT_DIR$/data/stopwords.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/tensorflow/lib/site-packages/folium/folium.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="425" selection-start-line="425" selection-end-line="425" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webcrawl/kospi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        <state relative-caret-position="304">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/folium_test/US_unemployment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text_mining/samsung_report.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webcrawl/naver_stock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="14" selection-end-column="12" />
           <folding>
             <element signature="e#0#34#0" expanded="true" />
           </folding>
@@ -397,37 +345,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/stopwords.txt">
+    <entry file="file://$PROJECT_DIR$/webcrawl/movie_rank.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/text_mining/samsung_report.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        <state relative-caret-position="190">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding>
-            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/envs/tensorflow/lib/site-packages/folium/folium.py">
+    <entry file="file://$PROJECT_DIR$/seoul_cctv/pop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="425" selection-start-line="425" selection-end-line="425" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/folium_test/US_unemployment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="209">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
         </state>
       </provider>
     </entry>
