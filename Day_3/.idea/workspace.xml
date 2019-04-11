@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="646028a7-f135-43ab-89df-c63ae370ed42" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/crime_in_Seoul.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/geo_simple.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/police_position.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seoul_cctv/cctv_pop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seoul_cctv/crime_map.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seoul_cctv/crime_police.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seoul_cctv/crime_rate.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seoul_cctv/pop.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,11 +15,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/seoul_cctv/cctv_pop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
+            <state relative-caret-position="779">
               <caret line="42" selection-start-line="42" selection-end-line="43" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -36,8 +24,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/seoul_cctv/crime_police.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="41" column="11" lean-forward="true" selection-start-line="6" selection-end-line="41" selection-end-column="11" />
+            <state relative-caret-position="665">
+              <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -48,7 +36,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/seoul_cctv/crime_rate.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
+            <state relative-caret-position="1615">
               <caret line="91" selection-start-line="91" selection-end-line="91" selection-end-column="42" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
@@ -60,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/seoul_cctv/crime_map.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1189">
-              <caret line="95" column="59" lean-forward="true" selection-start-line="95" selection-start-column="59" selection-end-line="95" selection-end-column="59" />
+            <state relative-caret-position="304">
+              <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -72,8 +60,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/folium_test/US_unemployment.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+            <state relative-caret-position="380">
+              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -120,11 +108,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="113" />
-    <option name="y" value="76" />
-    <option name="width" value="1400" />
-    <option name="height" value="820" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="450" />
+    <option name="y" value="-12" />
+    <option name="width" value="919" />
+    <option name="height" value="1602" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -139,21 +127,6 @@
             <path>
               <item name="Day_3" type="b2602c69:ProjectViewProjectNode" />
               <item name="Day_3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day_3" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day_3" type="462c0819:PsiDirectoryNode" />
-              <item name="folium_test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day_3" type="462c0819:PsiDirectoryNode" />
-              <item name="seoul_cctv" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -304,19 +277,20 @@
       <option name="presentableId" value="Default" />
       <updated>1554771407357</updated>
       <workItem from="1554771408652" duration="22865000" />
-      <workItem from="1554856484923" duration="23852000" />
+      <workItem from="1554856484923" duration="24135000" />
+      <workItem from="1554943007986" duration="1299000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46717000" />
+    <option name="totallyTimeSpent" value="48299000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.15616967" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.15809768" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
@@ -335,7 +309,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
-      <window_info active="true" anchor="right" id="Run" order="5" visible="true" weight="0.27506426" />
+      <window_info anchor="right" id="Run" order="5" weight="0.319403" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -432,16 +406,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/seoul_cctv/cctv_pop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="42" selection-start-line="42" selection-end-line="43" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/crime_police.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
@@ -459,20 +423,17 @@
     <entry file="file://$PROJECT_DIR$/data/result.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/folium_test/US_unemployment.py">
+    <entry file="file://$PROJECT_DIR$/seoul_cctv/cctv_pop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="779">
+          <caret line="42" selection-start-line="42" selection-end-line="43" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/seoul_cctv/crime_police.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="41" column="11" lean-forward="true" selection-start-line="6" selection-end-line="41" selection-end-column="11" />
+        <state relative-caret-position="665">
+          <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
@@ -481,8 +442,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/seoul_cctv/crime_rate.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
+        <state relative-caret-position="1615">
           <caret line="91" selection-start-line="91" selection-end-line="91" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/folium_test/US_unemployment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
@@ -491,8 +462,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/seoul_cctv/crime_map.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1189">
-          <caret line="95" column="59" lean-forward="true" selection-start-line="95" selection-start-column="59" selection-end-line="95" selection-end-column="59" />
+        <state relative-caret-position="304">
+          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
